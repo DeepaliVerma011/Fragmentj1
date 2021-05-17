@@ -1,0 +1,2 @@
+rootProject.name = "Fragmentjava1"
+include ':app'
